@@ -34,16 +34,6 @@ Learnt more about:
 * Feature Engineering.
 * How to use py-script framework.
 
-## Related
 
-Here are some related projects
-
-* [Color Name Prediction](https://github.com/LakshmanKishore/colorNamePrediction)
-* [Iris Classification](https://github.com/LakshmanKishore/irisClassification)
-
-
-## Author
-
-[Lakshman Kishore](https://lakshman.vercel.app)
 
 # You can watch the code live [here](https://lakshmankishore.github.io/loanPrediction)
