@@ -36,4 +36,4 @@ Learnt more about:
 
 
 
-# You can watch the code live [here](https://lakshmankishore.github.io/loanPrediction)
+# You can watch the code live [here](https://sreeepotluri.github.io/loanPrediction)
